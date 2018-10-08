@@ -1,0 +1,50 @@
+Names         Roll Nos       Contributions    
+
+yeshwanth     160010028      50%
+
+sanjay        160010022      50%
+
+
+______________________________________________________________________________________
+
+
+
+
+List of files        Purpose
+
+chess.php            Welcome page
+
+chess2.php           finding opponent
+
+chess31.php          accessible chess board for 1st player
+
+chess32.php          accessible chess board for 2nd player
+
+chesswin.php         changes the text file chesswin.txt in turns
+
+yeshtest1.php        records the moves in chess1.txt
+
+yeshtest2.php        records the moves in chess2.txt
+
+whitewin.html        gets displayed when white wins
+
+blackwin.html        gets displayed when black wins
+
+style.css            stylesheet
+
+
+
+
+_________________________________________________________________________________________
+
+
+How to install?
+
+All that is needed is any standard browser
+
+
+_________________________________________________________________________________________
+
+How to run?
+
+ip_address/chess.php

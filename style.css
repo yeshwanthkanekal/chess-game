@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(0,0,0);
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;
+}
+table{
+    width: 50%;
+    height: 70%;    
+    background-color: #f1f1c1;
+}
+h1 {
+    color: rgb(255,255,255);
+    text-align: center;
+}
+button{
+    width : 95px;
+    height : 95px;
+}
+img{
+    align : center;
+    width : 85px;
+    height : 85px;
+}
